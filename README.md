@@ -1,8 +1,7 @@
 # GaitPrediction
 Use accelerometer data to predict human gait cycles.
 
-Gait cycle segmentation is not only useful for wearable products, automated selection of the gait parameters is also very helpful to medical practices to help physician's decision making.
-
+Gait cycle segmentation is not only useful for wearable products, but also for applicatiosn in sports, rehabilitation, and clinical diagnosis. For example, automated selection of the gait parameters is also very helpful for medical practices to monitor patients's healing progress and help physician's decision making. Therefore, gait analysis has attracted the interest of researchers and clinicians.
 
 ## Dataset Specification
 
