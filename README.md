@@ -1,6 +1,8 @@
 # GaitPrediction
 Use accelerometer data to predict human gait cycles.
 
+Gait cycle segmentation is not only useful for wearable products, automated selection of the gait parameters is also very helpful to medical practices to help physician's decision making.
+
 
 ## Dataset Specification
 
